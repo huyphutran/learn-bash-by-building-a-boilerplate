@@ -99,3 +99,7 @@ ls --color=auto
 __vsc_prompt_cmd_original
 moew indeindex.js
 more index.js
+pwd
+pwd
+cd ../..
+cd has
