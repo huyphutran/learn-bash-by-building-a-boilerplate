@@ -161,3 +161,4 @@ cd..
 ls --color=auto
 cd ..
 ls --color=auto
+cp background.jpg images
