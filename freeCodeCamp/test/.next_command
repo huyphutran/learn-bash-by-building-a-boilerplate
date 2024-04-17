@@ -154,3 +154,10 @@ touch images
 ls --color=auto
 del images
 mkdir images
+mkdir images
+cd images
+ls --color=auto
+cd..
+ls --color=auto
+cd ..
+ls --color=auto
