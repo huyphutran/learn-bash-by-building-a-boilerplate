@@ -180,3 +180,10 @@ ls --color=auto
 rm header.png
 rm footer.jpeg
 ls --color=auto
+mv roboto.fonmt roboto.woff
+ls --color=auto
+clear
+ls --color=auto
+mv roboto.font roboto.wof
+ls --color=auto
+mv roboto.wof roboto.woff
