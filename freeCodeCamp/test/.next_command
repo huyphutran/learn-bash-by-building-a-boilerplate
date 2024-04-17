@@ -126,3 +126,12 @@ ls --color=auto
 ls --color=auto --help
 --all
 ls --color=auto -a
+cd..
+cd .. .
+cd.
+cd.. .
+cd..
+ls --color=auto
+ls --color=auto -a
+__vsc_prompt_cmd_original
+cd .
