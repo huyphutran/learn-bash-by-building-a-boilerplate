@@ -124,3 +124,5 @@ command --help
 clear
 ls --color=auto
 ls --color=auto --help
+--all
+ls --color=auto -a
