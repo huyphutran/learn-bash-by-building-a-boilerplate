@@ -70,3 +70,5 @@ ls --color=auto -1
 ls --color=auto -l
 has
 cd has
+cd has
+ls --color=auto -l
