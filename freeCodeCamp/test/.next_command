@@ -188,3 +188,4 @@ mv roboto.font roboto.wof
 ls --color=auto
 mv roboto.wof roboto.woff
 ls --color=auto
+mv lato.font lato.ttf
