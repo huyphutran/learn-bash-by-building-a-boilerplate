@@ -50,3 +50,4 @@ echo hello terminal
 ls --color=auto
 cd freeCodeCamp
 pwd
+ls --color=auto
