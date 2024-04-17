@@ -95,3 +95,4 @@ cd src
 ls --color=auto
 more src
 pwd
+ls --color=auto
